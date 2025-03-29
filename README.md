@@ -1,4 +1,4 @@
-Hello, I'm Kassandra :)
+# Hello, I'm Kassandra :)
 
 I'm a Sr. Project Manager with 7+ years of experience in public health strategy, and I'm currently upskilling to transition to tech.
 
