@@ -1,4 +1,14 @@
-## Hi there 👋
+Hello, I'm Kassandra :)
+
+I'm a Sr. Project Manager with 7+ years of experience in public health strategy, and I'm currently upskilling to transition to tech.
+
+I'm an AI/LLM-assisted coding nerd, and right now I'm most excited about building agentic AI systems with MCP tools.
+
+I'm slowly building up my portfolio of projects: here is <a href="https://www.whichtechstack.com">Which Tech Stack?</a>, my first attempt at building a web app using AI coding assistants. I built this quiz because I was unclear about which stacks to use for different kinds of projects. Let me know if you find it useful!
+
+While learning, I'm mostly finding ways to use Python and other scripting languages and frameworks to solve my own problems.
+
+You can connect with me on <a href="https://www.linkedin.com/in/kassandrabotts">Linkedin</a>, or you can contact me at 📫 kassandrabottsllc at gmail dot com.
 
 <!--
 **bottskass/bottskass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
